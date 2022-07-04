@@ -25,6 +25,10 @@ h1{
   width:80%;
 }
 
+.image-margin{
+  margin-top: 15px;
+}
+
 .link{
   text-decoration: none;
   background-image: linear-gradient(orange,tomato);
